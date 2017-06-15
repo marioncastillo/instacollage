@@ -1,0 +1,17 @@
+body {
+  background-color: white;
+  color:black;
+}
+
+
+img {
+  width: 100%;
+}
+
+/* PARA EJERCICIO HTML5 */
+.marco-foto {
+  height: 100px;
+  width: 100px;
+  border: 1px solid grey;
+}
+
