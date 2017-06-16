@@ -1,6 +1,6 @@
 body {
-  background-color: white;
-  color:black;
+  background-color: black;
+  color:white;
 }
 
 
@@ -10,8 +10,12 @@ img {
 
 /* PARA EJERCICIO HTML5 */
 .marco-foto {
-  height: 100px;
-  width: 100px;
-  border: 1px solid grey;
+  height: 70px;
+  width: 70px;
+  border: 1px solid blue;
+}
+
+.photo{
+	color: blue;
 }
 
